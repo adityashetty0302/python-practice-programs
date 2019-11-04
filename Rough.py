@@ -16,6 +16,6 @@ del d['a']
 print((d))
 '''
 
-a = "ajhashgduighaasgduiAsasdghasuikhdasdhkauha"
-b = a.zfill("jj")
+a="ajhashgduighaasgduiAsasdghasuikhdasdhkauha"
+b=a.zfill("jj")
 print(b)

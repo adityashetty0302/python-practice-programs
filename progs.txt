@@ -1,0 +1,5 @@
+How do you check if two strings are anagrams of each other?
+How do you find all permutations of a string?
+prime factors of a integer
+Write a program to find perfect number or not.
+push and pop (stack)
