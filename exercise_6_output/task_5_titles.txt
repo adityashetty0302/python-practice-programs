@@ -1,0 +1,32 @@
+
+--- UCLA asked faculty to consider declining to review for Elsevier journals
+--- CenturyLink is blocking customer internet, saying Utah legislators told them to
+--- Experts Urge U.S. To Continue Support for Nuclear Fusion Research
+--- China’s Economy Slows Sharply
+--- Red Hat contributes etcd to the Cloud Native Computing Foundation
+--- Turtletoy
+--- Remote code execution vulnerability in SQLite
+--- FCA UAW corruption scandal
+--- Bootstrapping Rust
+--- Pytext: A natural language modeling framework based on PyTorch
+--- Australian Gag Order Stokes Global Debate on Secrecy
+--- Close.io Is Hiring Inbound Account Managers and a Head of Inbound Sales (remote)
+--- Could Microsoft release a desktop Linux?
+--- How AI Training Scales
+--- Simulated Dendrochronology of US Immigration 1790-2016
+--- Debt Worldwide Hits Record $86k per Person
+--- Switzerland to test ‘hyperloop’ train technologies
+--- Machine learning is gradually changing modern agricultural practices
+--- Rare brain-eating amoebas killed woman who rinsed her sinuses with tap water
+--- Exploiting LaTeX with CVE-2018-17407
+--- Show HN: Stock Trading with Insomnia REST Client and Alpaca API
+--- SIPC Says It Has Serious Concerns About Robinhood's New Product
+--- “Silent Night” turns 200
+--- C, C++, x86/x64 assembly: The case of forgotten return
+--- Catnip Immunity and Alternatives
+--- A new neural network design could overcome challenges in AI
+--- 9cc: A Small C Compiler
+--- Facebook says new bug allowed apps access to private photos of up to 6.8M users
+--- John Berkey and the Mechanical Planet
+--- Fossils Of The 21st Century
+--- More
